@@ -16,7 +16,7 @@ Another test
 
 ## How To Contribute
 
-Hello
+Please fork this repository.
 
 ### Copyright
 
