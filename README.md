@@ -17,3 +17,7 @@ Another test
 ## How To Contribute
 
 Hello
+
+### Copyright
+
+Git.Training.2022
