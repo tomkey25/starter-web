@@ -22,4 +22,4 @@ Please fork this repository.
 
 ### Copyright
 
-Git.Training.2022
+Git.Training.2022 All right reserved.
